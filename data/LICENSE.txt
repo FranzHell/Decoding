@@ -1,0 +1,6 @@
+The datasets provided by A. S. Tolias, A. S. Ecker and P. Berens are
+licensed under a Creative Commons Attribution-NonCommercial-NoDerivs
+3.0 Unported License. This license requires that you contact us before
+you use the data in your own research. In particular, this means that
+you have to ask for permission if you intend to publish a new analysis
+performed with this data (no derivative works-clause).
